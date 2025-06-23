@@ -1,0 +1,56 @@
+## Build artifacts
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+.history/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Logs
+*.log
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Configuration
+appsettings.*.json
+
+## Environment files
+.env
+.env.*
+
+## dotnet CLI
+*.dbmdl
+*.bak
+*.sql
+
+## Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## Others
+*.vspscc
+*.vssscc
+_ReSharper*/
